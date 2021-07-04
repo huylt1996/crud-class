@@ -36,7 +36,7 @@ class Button extends Component {
                 <button
                     type="button"
                     className="btn btn-primary"
-                >
+                > 
                     Delete
                 </button>
             </div>
